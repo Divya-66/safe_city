@@ -1,0 +1,48 @@
+{
+  "name": "vite-react-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@aws-amplify/core": "^6.10.2",
+    "@aws-sdk/client-cognito-identity-provider": "^3.787.0",
+    "@aws-sdk/client-dynamodb": "^3.788.0",
+    "@aws-sdk/client-location": "^3.758.0",
+    "@aws-sdk/client-s3": "^3.758.0",
+    "@aws-sdk/client-sns": "^3.787.0",
+    "@aws-sdk/credential-providers": "^3.758.0",
+    "@aws-sdk/lib-dynamodb": "^3.789.0",
+    "@aws-sdk/s3-request-presigner": "^3.758.0",
+    "@aws/amazon-location-utilities-auth-helper": "^1.2.1",
+    "@turf/turf": "^7.2.0",
+    "amazon-cognito-identity-js": "^6.3.12",
+    "axios": "^1.8.1",
+    "crypto": "^1.0.1",
+    "lodash": "^4.17.21",
+    "lucide-react": "^0.344.0",
+    "mapbox-gl": "^3.10.0",
+    "maplibre-gl": "^5.1.1",
+    "papaparse": "^5.5.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.5.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.18",
+    "eslint": "^9.9.1",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.11",
+    "globals": "^15.9.0",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.4.2"
+  }
+}
