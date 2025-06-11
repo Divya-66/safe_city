@@ -7,7 +7,7 @@ A real-time community safety monitoring platform that helps users stay informed 
 - Real-time incident mapping
 - Community reporting system
 - Safety alerts and notifications
-- Interactive safety zones
+- Interactive safety zone
 - Incident filtering and search
 - Mobile-responsive design
 
