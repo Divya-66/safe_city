@@ -1,4 +1,4 @@
-# SafetyNet - Community Safety Platform
+# SafetyNet -- Community Safety Platform
 
 A real-time community safety monitoring platform that helps users stay informed about incidents in their area and contribute to community safety.
 
